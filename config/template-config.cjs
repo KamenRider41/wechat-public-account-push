@@ -55,11 +55,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是给你推送消息的第{{meet_day.DATA}}天
-      
       {{birthday_message.DATA}}
-      
-      ---
       
       {{moment_copyrighting.DATA}}
       
